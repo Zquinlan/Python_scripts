@@ -1,3 +1,6 @@
+## Written by Taylor O'Connell for Zach Quinlan Jan 2019
+## Editted by Zach Quinlan Feb 2019
+
 import sys
 import argparse
 
