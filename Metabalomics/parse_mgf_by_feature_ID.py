@@ -1,5 +1,3 @@
-## Written by Taylor O'Connell for Zach Quinlan Jan 2019
-## Editted by Zach Quinlan Feb 2019
 ## What to run in terminal to get the script to work
 ## python parse_by_feature_ID.py Feature_ID.txt Moorea_sirius.txt > outfile.txt
 
@@ -57,5 +55,4 @@ with open(args.infile, 'r') as fin:
             
         
         
-        
-
+     
