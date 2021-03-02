@@ -4,7 +4,7 @@
 ## Folders
 - Metabolomics
   - parse_mgf_by_feature_ID.py
-    - Parses mgf file by feature number. Input is a .csv dataframe which is a list of features you want to keep and the mgf file which you want to shorten
+    - Parses mgf file by feature number. Input is a .txt which is a list of features you want to keep and the mgf file which you want to shorten
 
 - Videomics
   - conversion.py
