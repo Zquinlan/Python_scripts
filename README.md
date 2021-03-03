@@ -8,6 +8,9 @@
       
       Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Zquinlan/Python_scripts/HEAD?filepath=Metabalomics%2FFBMN_parse_mgf_by_ID.ipynb)
 
+- Graphics
+  - bicluster.py
+    - Generates a bicluster hierarchical cluster from in input csv using the seaborn package
 
 - Videomics
   - conversion.py
