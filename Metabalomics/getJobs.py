@@ -10,6 +10,9 @@ parser.add_argument('jobID', help="This is the task number of your GNPS job whic
 parser.add_argument('jobType', help= "The type of job options are 'canopus', 'library', 'analog', 'csiFingerID', 'edges'")
 args = parser.parse_args()
 
+jobID = args.jobID
+jobType = args.jobType
+
 if jobType == 'canopus':
     url = str('https://gnps.ucsd.edu/ProteoSAFe/result_json.jsp?task=' + jobID + '&view=canopus_summary') 
 if jobType == 'library':
